@@ -2,6 +2,7 @@
 
 # Exercises :
 - Hand on machine learning Chapter 10 Exercise No.10 :
+
 Train a deep MLP on the MNIST dataset (you can load it using keras.data
 sets.mnist.load_data(). See if you can get over 98% precision. Try searching
 for the optimal learning rate by using the approach presented in this chapter (i.e.,
